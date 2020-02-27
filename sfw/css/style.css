@@ -507,17 +507,27 @@ ul, ol {
 .hero-text {
 	padding-top: 145px;
 }
+.bg-highlight {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 10px;
+	padding-bottom: 5px;
+}
 .hero-text h1 {
 	font-size: 80px;
 	line-height: 90px;
 	color: #ffffff;
 	margin-bottom: 16px;
+
 }
 .hero-text p {
 	font-size: 18px;
 	color: #ffffff;
 	line-height: 28px;
 	margin-bottom: 35px;
+
 }
 .booking-form {
 	background: #ffffff;
