@@ -282,6 +282,9 @@ ul, ol {
 	margin-right: 64px;
 	position: relative;
 }
+.top-nav .tn-left a:link {
+	color: #19191a;
+}
 .top-nav .tn-left li:after {
 	position: absolute;
 	right: -32px;
@@ -925,6 +928,9 @@ ul, ol {
 	color: #aaaab3;
 	line-height: 32px;
 	list-style: none;
+}
+.footer-section .footer-text .ft-contact ul li a:link{
+	color: #aaaab3;
 }
 .footer-section .footer-text .ft-newslatter h6 {
 	font-size: 14px;
@@ -2216,6 +2222,9 @@ ul, ol {
 		color: #19191a;
 		font-weight: 500;
 		line-height: 28px;
+	}
+	.offcanvas-menu-wrapper .top-widget li a:link {
+		color: #19191a;
 	}
 	.offcanvas-menu-wrapper .top-widget li i {
 		color: #dfa974;
