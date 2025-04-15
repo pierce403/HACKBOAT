@@ -1,6 +1,6 @@
 # Hackboat 2025
 
-This is the website for Hackboat 2025 - an infosec unconference on the high seas. Join us for a one-day pirate-themed infosec unconference on a boat in Portland, OR on June 6th, 2025.
+This is the website for Hackboat 2025 - the unconference that floats. Join us for a one-day infosec unconference on a boat in Portland, OR on June 6th, 2025.
 
 ## Prerequisites
 
