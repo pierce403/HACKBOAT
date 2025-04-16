@@ -38,6 +38,7 @@ destination: docs
 # Custom settings
 event_date: June 6th, 2025
 event_location: 110 SE Caruthers St, Portland, Oregon, 97214 (by OMSI)
+default_image: /assets/images/hackboat-2025.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
