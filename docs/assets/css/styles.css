@@ -492,6 +492,7 @@ ul {
 .site-footer .footer-content .social-links {
   display: flex;
   align-items: flex-start;
+  justify-content: center;
 }
 
 .site-footer .footer-content .social-links a {
