@@ -489,18 +489,6 @@ ul {
   margin-bottom: 0.5rem;
 }
 
-.site-footer .footer-content .social-links {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-}
-
-.site-footer .footer-content .social-links a {
-  display: flex;
-  align-items: center;
-  color: var(--white);
-}
-
 .site-footer .footer-content .social-links a:hover {
   color: var(--bioluminescent-blue);
 }
@@ -513,6 +501,8 @@ ul {
   fill: var(--white);
   margin-right: 0.5rem;
   transition: fill 0.3s ease;
+  top: 6px;
+  position: relative;
 }
 
 .site-footer .copyright {
